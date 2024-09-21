@@ -38,3 +38,7 @@ for i in range (200):
     stamp()
 
 done()
+
+# mensaje
+write(``Happy birthday my love´´, align=``center´´,font=(Time new roman, 12, ``normal´´))
+goto(0, 500)
